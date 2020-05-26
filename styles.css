@@ -1,0 +1,205 @@
+body {
+  text-align: center;
+  font-family: 'Sacramento', sans-serif;
+  margin: 0;
+}
+
+h1 {
+  color: #00005C;
+  font-size: 5rem;
+  margin: 0 auto 3rem auto;
+  font-family: 'Papyrus', 'Sacramento';
+}
+
+h2 {
+  color: #679b9b;
+  font-family: 'Papyrus', sans-serif;
+  font-size: 1.75rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #00005c;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  font-family: 'Sacramento', sans-serif;
+}
+
+/*containers*/
+
+.first-container {
+  background-color: #aacfcf;
+  position: relative;
+  padding: 17.2rem 21.2rem 21.2rem 27.2rem;
+}
+
+.second-container {
+  padding-top: 10rem;
+  position: relative;
+}
+
+.hobby-container {
+  position: relative;
+  background-color: #ffffff;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.employment-container {
+  background-color: #aacfcf;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+.education-container {
+  background-color: #ffffff;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+.skill-container {
+  padding-bottom: 5rem;
+}
+
+.contacts-container {
+  background-color: #aacfcf;
+  padding: 3.125rem 0 1.4rem;
+}
+
+/*others*/
+
+.main {
+  font-size: 6rem;
+}
+
+.icon {
+  color: #679b9b;
+}
+
+.row {
+  margin: 0;
+}
+
+.short-text {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+
+.hobby-box {
+  padding: 0;
+}
+
+.about-title {
+  margin-top: 8rem;
+}
+
+.employment-title {
+  margin-bottom: 4rem;
+}
+
+.employment-text {
+  color: #ffffff;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.education-row {
+  width: 50%;
+  margin: 6.25rem auto 6.25rem auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.vjc-text {
+  padding-top: 1rem;
+}
+
+.cch-text {
+  padding-top: 1.5rem;
+}
+
+.contact-text {
+  padding-bottom: 1.2rem;
+}
+
+.skill-row {
+  padding: 0;
+}
+/*images*/
+
+.displaypic {
+  position: absolute;
+  left: 43%;
+  bottom: 16.5rem;
+  height: 11rem;
+  width: 11rem;
+}
+
+.cloud1 {
+  position: absolute;
+  bottom: 9%;
+  left: 10%;
+  height: 4rem;
+  width: 7rem;
+}
+
+.cloud2 {
+  position: absolute;
+  bottom: 80%;
+  right: 10%;
+  height: 4rem;
+  width: 7rem;
+}
+
+.mountain {
+  position: absolute;
+  bottom: 7%;
+  right: 26%;
+}
+
+.employment-img {
+  height: 21.5rem;
+  width: 54.25rem;
+}
+
+.smu-img {
+  width: 40%;
+  float: left;
+  margin-right: 1.875rem;
+}
+
+.victoria-img {
+  width: 20%;
+  float: right;
+  margin-left: 1.875rem;
+}
+
+.cchms-img {
+  width: 20%;
+  float: left;
+  margin-right: 1.875rem;
+  padding-top: 1.5rem;
+}
+
+.basic-prog {
+  height: 13rem;
+  width: 16rem;
+}
+
+.web-dev {
+  height: 13rem;
+  width: 16rem;
+}
+
+.microsoft-platform {
+  height: 12rem;
+  width: 12rem;
+  margin-bottom: 1rem;
+}
+
+.footer-link {
+  font-size: 1rem;
+  font-family: sans-serif;
+  padding: 2rem 0.4rem 0 0.4rem;
+}
